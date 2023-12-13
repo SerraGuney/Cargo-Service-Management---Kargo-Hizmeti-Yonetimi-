@@ -1,0 +1,14 @@
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\MONSTER\Documents\C#\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
